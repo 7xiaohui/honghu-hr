@@ -151,4 +151,4 @@
 - 个人主页：https://7xiaohui.github.io/
 - GitHub：https://github.com/7xiaohui
 - 论文写作 SOP：https://github.com/7xiaohui/paper-writing-sop
-- 河南工伤知识库：https://github.com/7xiaohui/henan-gongshang-kb
+- 河南工伤保险政策知识库：https://github.com/7xiaohui/henan-gongshang-kb
